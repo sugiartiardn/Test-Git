@@ -1,0 +1,108 @@
+.kepala{
+    background-color:white ;
+    margin-left: 60px;
+    height: 150px;
+}
+
+b{
+    font-size: 40px;
+    margin-left: 30px;
+    font-family: serif;
+    color: coral;
+}
+
+.search{
+	width: 700px;
+	height: 30px;
+    background: rgb(236, 197, 183);
+    border:0px solid maroon;
+    margin-left: 30px;
+}
+
+.button{
+	width: 60px;
+	height: 30px;
+	background-color: maroon;
+	color: white;
+    left:-8px;
+	border: 1px solid black;
+}
+
+.menu{
+    background-color: coral;
+    margin: 20px 10px;
+    height: 40px;
+}
+
+a{
+    color: white;
+    font-family: Calibri;
+}
+
+div.menu ul {
+    list-style:none;
+    overflow: hidden;
+}
+
+div.menu ul li {
+    float:left;
+    padding: 10px;
+}
+
+.sidebar{ 
+    height:auto; 
+    background-color:#FFFFFF; 
+    text-align:left; 
+    width:300px; 
+    z-index:5; 
+    float:left; 
+    overflow:hidden; 
+    margin-left: 60px;
+    height: 900px;
+}
+
+.konten{
+    background-color: white;
+    height: auto;
+    margin: 20px 20px;
+
+}
+
+h1{
+    color: maroon;
+    font-family: Calibri;
+}
+
+h4{
+    font-family: Calibri;
+}
+
+.footer{
+    background-color: rgb(255, 127, 80);
+    margin: 20px 10px;
+    height: 30px;
+}
+
+font{
+    font-family: calibri;
+}
+
+.tulisan{
+    font-family: calibri;
+}
+
+p{
+    font-size: 25px;
+    font-family: calibri;
+    margin-left: 50px;
+}
+
+.poto{
+    margin-left: 80px;
+}
+
+
+
+
+
+

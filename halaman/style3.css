@@ -1,0 +1,37 @@
+.kepala{
+    background-color:white ;
+    margin-left: 30px;
+    margin-right: 750px;
+    height: 180px;
+    border: 2px solid sienna;
+    
+}
+
+.semua{
+    margin: 80px auto;
+}
+
+.bawah{
+    background-color: coral ;
+    margin-left: 30px;
+    height: 300px;
+    border: 2px solid sienna;
+    margin-right: 750px;
+}
+
+b{
+    font-size: 40px;
+    margin-left: 30px;
+    font-family: serif;
+    color: coral;
+}
+
+p{
+    font-family: calibri;
+    margin-left: 50px;
+    color: white;
+}
+
+font{
+    font-family: calibri;
+}
